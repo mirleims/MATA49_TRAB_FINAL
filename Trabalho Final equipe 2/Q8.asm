@@ -1,4 +1,4 @@
-;ana carolina, iris jasmin, rodrigo felix, victor manoel
+;ana carolina, iris janine, rodrigo felix, victor manoel
 bits 64
 
 ; contagem de igualdade entre lados
