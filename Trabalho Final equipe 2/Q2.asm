@@ -1,4 +1,4 @@
-
+;ana carolina, iris janine, rodrigo felix, victor manoel
 section .data
     ps db "eh primo",0
     psn db "nao eh primo",0
