@@ -1,3 +1,4 @@
+;Componentes do grupo: Indaiara, Maiara, Liang, Pedro Miranda
 ; Para compilar
 ; nasm -f elf64 main.asm && gcc main.o -o main
             global        main
