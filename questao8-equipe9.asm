@@ -1,3 +1,5 @@
+;Componentes do grupo: Indaiara, Maiara, Liang, Pedro Miranda
+
 section .data
 message1: db "Digite l1",10,0
 message2: db "Digite l2",10,0
